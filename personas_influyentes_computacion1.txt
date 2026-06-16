@@ -1,0 +1,94 @@
+PERSONAS INFLUYENTES EN LA COMPUTACIÓN
+========================================
+Fuente: Introducción a la Informática - Beekman (Páginas 22 al 60)
+
+
+PIONEROS Y PRECURSORES
+-----------------------
+
+1. Charles Babbage (siglo XIX)
+   - Matemático de Cambridge.
+   - Creador del diseño de la Máquina Analítica, considerada la precursora
+     de todas las computadoras modernas.
+
+2. Augusta Ada King, Condesa de Lovelace (1815–1852)
+   - Hija del poeta Lord Byron.
+   - Colaboradora de Babbage y considerada la primera programadora de
+     computadoras de la historia, por haber escrito un plan para usar
+     la Máquina Analítica.
+
+3. Joseph-Marie Charles Jacquard
+   - Fabricante textil francés.
+   - Desarrolló un telar que leía información en tarjetas perforadas,
+     idea que inspiró a Babbage.
+
+
+CONSTRUCTORES DE LAS PRIMERAS COMPUTADORAS ELECTRÓNICAS
+---------------------------------------------------------
+
+4. Konrad Zuse
+   - Ingeniero alemán.
+   - En 1939 completó la primera computadora digital programable
+     de propósito general.
+
+5. Alan Turing
+   - Matemático británico.
+   - Dirigió el equipo que completó Colossus en 1943, considerada por
+     muchos la primera computadora digital electrónica.
+
+6. John Atanasoff
+   - Profesor de la Iowa State University.
+   - Creador de la ABC (Atanasoff-Berry Computer), uno de los primeros
+     dispositivos de cómputo electrónico.
+
+7. Howard Aiken
+   - Profesor de Harvard.
+   - Construyó la Mark I (completada en 1944), financiada con un millón
+     de dólares de IBM.
+
+8. John Mauchly
+   - Cofundador de la ENIAC junto con Eckert.
+   - Luego creó la UNIVAC I, primera computadora comercial de propósito
+     general, y la empresa Sperry.
+
+9. J. Presper Eckert
+   - Coinventor de la ENIAC.
+   - Socio de Mauchly en la creación de la UNIVAC y la empresa Sperry.
+
+
+ERA MODERNA Y MICROCOMPUTADORAS
+---------------------------------
+
+10. Gordon Moore
+    - Presidente de Intel.
+    - Enunció la célebre Ley de Moore (1965): la potencia de los chips
+      se duplica aproximadamente cada 18 meses.
+
+11. Doug Engelbart
+    - Pionero que patentó el ratón en los años 60.
+
+12. Von Neumann
+    - Sugirió el almacenamiento de programas como datos (arquitectura
+      Von Neumann), principio fundamental de las computadoras actuales.
+
+
+VISIONARIOS E INVESTIGADORES
+------------------------------
+
+13. Alan Kay
+    - Investigador de Xerox.
+    - Visionario que definió muchas características esenciales de los
+      PC actuales. Dijo: "la mejor forma de predecir el futuro es inventarlo".
+
+14. Simson Garfinkel
+    - Autor de Database Nation y colaborador del MIT Technology Review.
+    - Autor del artículo "El mito de la Generación Red".
+
+15. Dave Clark
+    - Pionero de Internet e investigador del MIT.
+
+16. Seymour Papert
+    - Autor de Mindstorms.
+    - Citado por sus reflexiones sobre la cultura de las computadoras.
+
+========================================
